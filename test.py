@@ -1,6 +1,6 @@
 print('this is a')
-a='test a string'
+a='test'
 print('this is '+a)
-a='a'
+a='aaa'
 print('this is '+a)
 print(__name__)
