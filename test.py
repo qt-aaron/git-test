@@ -5,3 +5,4 @@ a='aaa'
 print('this is '+a)
 print(__name__)
 print(__file__)
+print(__file__)
